@@ -36,20 +36,16 @@ _Quiz score end_
 
 ### Pruebas de estilo de codificación ⌨️
 
-_Despliege de server y uso de socket.io para creacion de salas en el servidor_
+_Inserción de contenido de Aplicación (Quiz)_
 
-
-_Modificación de estilos CSS, fuentes de chat, etc_
-
+![image](https://github.com/Adoptsomekids/Quiz-VueJS/assets/83385717/9497096f-640b-4c9f-94f2-50eab38d512d)
 
 ## Construido con 🛠️
 
-* [Node JS](https://nodejs.org/en) -  Server environment
-* [Express JS](https://expressjs.com/) - Backend web application framework
-* [Railway](https://railway.app/) -  Hosting platform
+* [VueJS](https://vuejs.org/) - JavaScript Framework
+* [Netlify](https://www.netlify.com/) -  Hosting platform
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código
 * [HTML](https://html.com/document/) - Lenguaje de programación
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - Diseños
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Codificación
 
 ## Autor ✒️
