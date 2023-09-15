@@ -45,7 +45,7 @@ _Inserción de contenido de Aplicación (Quiz)_
 * [VueJS](https://vuejs.org/) - JavaScript Framework
 * [Netlify](https://www.netlify.com/) -  Hosting platform
 * [Visual Studio Code](https://code.visualstudio.com/) - Editor de Código
-* [HTML](https://html.com/document/) - Lenguaje de programación
+* [HTML](https://html.com/document/) - Programación web
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Codificación
 
 ## Autor ✒️
